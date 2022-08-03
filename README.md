@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JRSalica
 - 👀 I’m interested in Web Development and Data Science.
-- 🌱 I’m currently learning HTML5, CSS3, Boostrap 5, Javascript and React.
+- 🌱 I’m currently learning React and NodeJS.
 - 💞️ I’m looking to collaborate on adaptative and flexible projects
 - 📫 How to reach me: salicajorge@gmail.com
 
